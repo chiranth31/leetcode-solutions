@@ -4,7 +4,7 @@ This tracker records the progress of the LeetCode problems completed as part of 
 
 | Date | Problem | Topic | Difficulty | Status | Time Taken |
 |---|---|---|---|---|---|
-| 01/10/2026 | Two Sum | Arrays & Strings | Easy | ⏳ In Progress | — |
+| 02/10/2026 | Two Sum | Arrays & Strings | Easy | Completed | 1 hr 30 min |
 | 01/10/2026 | Reverse a String | Arrays & Strings | Easy | ⏳ In Progress | — |
 | 01/10/2026 | Valid Anagram | Arrays & Strings | Easy | ⏳ In Progress | — |
 | 01/10/2026 | Best Time to Buy and Sell Stock | Arrays & Strings | Easy-Medium | ⏳ In Progress | — |
